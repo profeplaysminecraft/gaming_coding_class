@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Gaming and Coding RP",
+        "name": "Gaming and Coding RP",
+        "uuid": "ff8a2589-1c40-49b0-a069-f15f9c070737",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 1 ]
+    },
+    "modules": [
+        {
+           "description": "Gaming and Coding RP",
+           "type": "resources",
+           "uuid": "9dc995a9-f1d8-4aae-9156-8c5567948770",
+           "version": [0, 0, 1]
+       }
+   ]
+}
