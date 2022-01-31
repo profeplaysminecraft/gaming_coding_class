@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Gaming and Coding",
+        "name": "Gaming and Coding",
+        "uuid": "56933512-2acb-4cbe-a2dc-cb3838db52a9",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 18, 1 ]
+    },
+    "modules": [
+        {
+            "description": "Gaming and Coding",
+            "type": "data",
+            "uuid": "9c5a4cbd-0058-4a5a-87c8-960d208c3ed4",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "ff8a2589-1c40-49b0-a069-f15f9c070737",
+            "version": [0, 0, 1]
+        }
+    ]
+}
